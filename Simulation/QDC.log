@@ -1,0 +1,26 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\ASUS\Desktop\Shreya\IIIT\QDC.net
+Start Time: Sun Jun 28 11:47:02 2026
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Alternate
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Compress1stOrder = true
+Compress2ndOrder = true
+Direct Newton iteration succeeded in finding operating point.
+Changing Tseed to 4.88281e-10
+Changing Tseed to 4.88281e-12
+Changing Tseed to 4.88281e-09
+Changing Tseed to 4.88281e-13
+Total elapsed time: 2.858 seconds.
+
+Files loaded:
+C:\Users\ASUS\Desktop\Shreya\IIIT\QDC.net
+C:\Users\ASUS\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\ASUS\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\ASUS\Documents\LTspice\TSMC_180nm.txt
+C:\Users\ASUS\Documents\LTspice\UA741.301
+
